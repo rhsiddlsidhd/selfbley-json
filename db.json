@@ -70,6 +70,30 @@
         "etc": ["github", "figma"]
       },
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Placeat eum temporibus voluptatibus est expedita,similique nemo consequuntur voluptatem corrupti illumitaque quidem? Necessitatibus odio vitae officiisducimus earum dolorem repellendus. Lorem ipsum dolor sitamet consectetur adipisicing elit. Voluptate corporisculpa autem temporibus dolorem assumenda voluptatibusaliquid error numquam velit, consectetur mollitiadignissimos, odio similique dolorum esse iure veladipisci."
+    },
+    {
+      "mode": "SINGLE",
+      "title": "next-wiki-book",
+      "overView": "Wiki book C2C는 Next.Js 애플리케이션 개발에 사용되는 데모 애플리케이션",
+      "socialLinks": [
+        {
+          "name": "github",
+          "icon": "public/github_icon8.svg",
+          "href": "https://github.com/rhsiddlsidhd/wiki_book"
+        },
+        {
+          "name": "tstory",
+          "icon": "https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014",
+          "href": "#"
+        }
+      ],
+      "thumnail": "/wikibook.jpg",
+      "technologies": {
+        "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
+        "frontend": ["NextJs", "React", "styled-components", "swr"],
+        "etc": ["Storybook", "Heroku", "Vercel"]
+      },
+      "description": "wiki book 레퍼런스를 기반으로 Next.js App Router 구조로 마이그레이션 하였습니다. Next Js를 학습을 목표로 프로젝트를 진행하였으며, 이번 계기로 SSR과 CSR의 차이에 대해 명확하게 이해하고, 애플리케이션의 주된 사용자 특성과 목적에 따라 적절한 렌더링 전략을 선택하는 기준을 체득하였습니다. "
     }
   ],
   "books": [
