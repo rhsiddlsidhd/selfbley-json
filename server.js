@@ -3,10 +3,11 @@ const server = jsonServer.create();
 const middlewear = jsonServer.defaults();
 const router = jsonServer.router("db.json");
 const express = require("express");
+const cors = require(cors);
 const port = process.env.PORT || 8000;
 server.use(express.json());
 server.use(middlewear);
-
+server.use(cors);
 server.use(router);
 
 server.listen(port, (err) => {
