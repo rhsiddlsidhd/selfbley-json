@@ -88,12 +88,38 @@
         }
       ],
       "thumnail": "/wikibook.jpg",
+      "deployUrl": "https://wiki-book-pdak.vercel.app/",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
         "frontend": ["NextJs", "React", "styled-components", "swr"],
-        "etc": ["Storybook", "Heroku", "Vercel"]
+        "etc": ["Github", "Storybook", "Heroku", "Vercel"]
       },
-      "description": "wiki book 레퍼런스를 기반으로 Next.js App Router 구조로 마이그레이션 하였습니다. Next Js를 학습을 목표로 프로젝트를 진행하였으며, 이번 계기로 SSR과 CSR의 차이에 대해 명확하게 이해하고, 애플리케이션의 주된 사용자 특성과 목적에 따라 적절한 렌더링 전략을 선택하는 기준을 체득하였습니다. "
+      "description": "wiki book 레퍼런스를 기반으로 Next.js App Router 구조로 마이그레이션 하였습니다. Next Js를 학습을 목표로 프로젝트를 진행하였으며, 이번 계기로 SSR과 CSR의 차이에 대해 명확하게 이해하고, 애플리케이션의 주된 사용자 특성과 목적에 따라 적절한 렌더링 전략을 선택하는 기준을 체득하였습니다. 데모 시연을 위해 아래 계정으로 로그인할 수 있습니다. \nID: user / PW: password"
+    },
+    {
+      "mode": "SINGLE",
+      "title": "slefbley",
+      "overView": "slefbley는 Interactive 한 개인 PORTFOLIO 입니다.  ",
+      "socialLinks": [
+        {
+          "name": "github",
+          "icon": "public/github_icon8.svg",
+          "href": "https://github.com/rhsiddlsidhd/selfbley"
+        },
+        {
+          "name": "tstory",
+          "icon": "https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014",
+          "href": "#"
+        }
+      ],
+      "thumnail": "/wikibook.jpg",
+      "technologies": {
+        "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
+        "frontend": ["React", "styled-components", "Framer-motion", "Zustand"],
+        "etc": ["Github"]
+      },
+      "deployUrl": "#",
+      "description": "다양한 애니메이션을 활용하여 인터렉티브한 경험을 극대화한 개인 포트폴리오 입니다. 복잡한 애니메이션 구현을 보다 효율적으로 구현하고 관리하기 위해 Framer-motion 라이브러리를 도입하였습니다. 또한 다수의 이미지와 비디오를 포함한 컴포넌트들을 최적화 하여 페이지 로딩 속도와 같은 페이지 성능 향상을 이루었습니다."
     }
   ],
   "books": [
