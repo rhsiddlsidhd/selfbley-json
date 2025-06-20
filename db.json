@@ -16,7 +16,7 @@
           "href": "https://endless-growth.tistory.com/"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "#",
       "deployUrl": "#",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT"],
@@ -39,7 +39,7 @@
           "href": "https://endless-growth.tistory.com/"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "#",
       "deployUrl": "#",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
@@ -55,7 +55,7 @@
         {
           "name": "github",
 
-          "href": "#"
+          "href": "https://github.com/rhsiddlsidhd"
         },
         {
           "name": "tstory",
@@ -63,7 +63,7 @@
           "href": "https://endless-growth.tistory.com/"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "#",
       "deployUrl": "#",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
@@ -88,7 +88,7 @@
           "href": "https://endless-growth.tistory.com/"
         }
       ],
-      "thumnail": "/wikibook.jpg",
+      "thumbnail": "#",
       "deployUrl": "https://wiki-book-pdak.vercel.app/",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
@@ -113,7 +113,7 @@
           "href": "https://endless-growth.tistory.com/"
         }
       ],
-      "thumnail": "#",
+      "thumbnail": "#",
       "deployUrl": "#",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
