@@ -63,7 +63,7 @@
           "href": "#"
         }
       ],
-      "thumbnail": "public/mountain.jpg",
+      "thumbnail": "selfbley.webp",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
         "backend": ["NODE.JS", "EXPRESS"],
