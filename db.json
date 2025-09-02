@@ -118,7 +118,7 @@
         "frontend": ["React", "styled-components", "Framer-motion", "Zustand"],
         "etc": ["Github"]
       },
-      "deployUrl": "#",
+      "deployUrl": "https://selfbley.vercel.app/",
       "description": "다양한 애니메이션을 활용하여 인터렉티브한 경험을 극대화한 개인 포트폴리오 입니다. 복잡한 애니메이션 구현을 보다 효율적으로 구현하고 관리하기 위해 Framer-motion 라이브러리를 도입하였습니다. 또한 다수의 이미지와 비디오를 포함한 컴포넌트들을 최적화 하여 페이지 로딩 속도와 같은 페이지 성능 향상을 이루었습니다."
     }
   ],
