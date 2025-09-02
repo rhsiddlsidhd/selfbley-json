@@ -19,11 +19,11 @@
       "thumbnail": "new_invitation.webp",
       "deployUrl": "https://new-invitation-pi.vercel.app",
       "technologies": {
-        "language": ["HTML", "CSS", "JAVASCRIPT"],
-        "frontend": ["styled-components", "react", "redux", "zustand"],
-        "backend": ["NODE.JS", "EXPRESS"]
+        "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
+        "frontend": ["Tailwind", "Framer-motion", "Zustand", "NextJs"],
+        "backend": ["Mongoose", "MongoDB", "NextJs"]
       },
-      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Placeat eum temporibus voluptatibus est expedita,similique nemo consequuntur voluptatem corrupti illumitaque quidem? Necessitatibus odio vitae officiisducimus earum dolorem repellendus. Lorem ipsum dolor sitamet consectetur adipisicing elit. Voluptate corporisculpa autem temporibus dolorem assumenda voluptatibusaliquid error numquam velit, consectetur mollitiadignissimos, odio similique dolorum esse iure veladipisci."
+      "description": "회원 유저들을 대상으로 청첩장에 필요한 데이터를 받아 청첩장을 발급해주는 서비스 NextJS 기반 웹 포트폴리오 입니다. 실 유저는 bcrypt를 사용해 해시한 비밀번호와 함께 회원가입을 받고 로그인 유저는 jose lib로 발급 된 토큰을 Session Store에 저장하여 로그인 상태를 관리합니다. Tailwind(으)로 정적 스타일을, Motion(으)로 동적 스타일을 구분하여 UI 컴포넌트를 구성하고, Atomic Design 패턴을 적용해 아키텍쳐 설계하였습니다."
     },
     {
       "mode": "TEAM",
