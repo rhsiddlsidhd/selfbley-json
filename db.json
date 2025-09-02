@@ -16,7 +16,7 @@
           "href": "#"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "public/mountain.jpg",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT"],
         "frontend": ["styled-components", "react", "redux", "zustand"],
@@ -40,7 +40,7 @@
           "href": "#"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "public/mountain.jpg",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
         "backend": ["NODE.JS", "EXPRESS"]
@@ -63,7 +63,7 @@
           "href": "#"
         }
       ],
-      "thumnail": "public/mountain.jpg",
+      "thumbnail": "public/mountain.jpg",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
         "backend": ["NODE.JS", "EXPRESS"],
@@ -87,7 +87,7 @@
           "href": "#"
         }
       ],
-      "thumnail": "/wikibook.jpg",
+      "thumbnail": "/wikibook.jpg",
       "deployUrl": "https://wiki-book-pdak.vercel.app/",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
@@ -112,7 +112,7 @@
           "href": "#"
         }
       ],
-      "thumnail": "/wikibook.jpg",
+      "thumbnail": "/wikibook.jpg",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
         "frontend": ["React", "styled-components", "Framer-motion", "Zustand"],
@@ -129,7 +129,7 @@
       "author": "Who Are You",
       "title": "면접을 위한 CS 전공지식 노트",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
-      "thumnail": "이미지 경로"
+      "thumbnail": "이미지 경로"
     },
     {
       "id": "learningJs",
@@ -137,7 +137,7 @@
       "author": "Who Are You",
       "title": "Learning Javascript Data Structures and Algorithms",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
-      "thumnail": "이미지 경로"
+      "thumbnail": "이미지 경로"
     },
     {
       "id": "gracefulTs",
@@ -145,7 +145,7 @@
       "author": "Who Are You",
       "title": "우아한 타입스크립트 with 리액트",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
-      "thumnail": "이미지 경로"
+      "thumbnail": "이미지 경로"
     }
   ]
 }
