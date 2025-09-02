@@ -2,21 +2,22 @@
   "projects": [
     {
       "mode": "SINGLE",
-      "title": "The Knot",
-      "overView": " Lorem, ipsum dolor sit amet consectetur adipisicingelit. Voluptate",
+      "title": "new_invitation",
+      "overView": "Next Js로 만든 청첩장 만들기 서비스",
       "socialLinks": [
         {
           "name": "github",
           "icon": "public/github_icon8.svg",
-          "href": "#"
+          "href": "https://github.com/rhsiddlsidhd/new_invitation"
         },
         {
           "name": "tstory",
           "icon": "https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014",
-          "href": "#"
+          "href": "https://endless-growth.tistory.com/57"
         }
       ],
-      "thumbnail": "#",
+      "thumbnail": "new_invitation.webp",
+      "deployUrl": "https://new-invitation-pi.vercel.app",
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT"],
         "frontend": ["styled-components", "react", "redux", "zustand"],
@@ -41,6 +42,7 @@
         }
       ],
       "thumbnail": "#",
+      "deployUrl": "#",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
         "backend": ["NODE.JS", "EXPRESS"]
@@ -64,6 +66,7 @@
         }
       ],
       "thumbnail": "#",
+      "deployUrl": "#",
       "technologies": {
         "frontend": ["HTML", "CSS", "JAVASCRIPT"],
         "backend": ["NODE.JS", "EXPRESS"],
@@ -112,12 +115,13 @@
           "href": "#"
         }
       ],
-      "thumbnail": "selfbley.webp",
+
       "technologies": {
         "language": ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"],
         "frontend": ["React", "styled-components", "Framer-motion", "Zustand"],
         "etc": ["Github"]
       },
+      "thumbnail": "selfbley.webp",
       "deployUrl": "https://selfbley.vercel.app/",
       "description": "다양한 애니메이션을 활용하여 인터렉티브한 경험을 극대화한 개인 포트폴리오 입니다. 복잡한 애니메이션 구현을 보다 효율적으로 구현하고 관리하기 위해 Framer-motion 라이브러리를 도입하였습니다. 또한 다수의 이미지와 비디오를 포함한 컴포넌트들을 최적화 하여 페이지 로딩 속도와 같은 페이지 성능 향상을 이루었습니다."
     }
