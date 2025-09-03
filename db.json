@@ -27,13 +27,13 @@
     },
     {
       "mode": "TEAM",
-      "title": "The Knot",
-      "overView": " Lorem, ipsum dolor sit amet consectetur adipisicingelit. Voluptate",
+      "title": "yummy",
+      "overView": "위치 기반 카페 추천 서비스",
       "socialLinks": [
         {
           "name": "github",
           "icon": "public/github_icon8.svg",
-          "href": "#"
+          "href": "https://github.com/rhsiddlsidhd/yummy"
         },
         {
           "name": "tstory",
@@ -41,13 +41,14 @@
           "href": "#"
         }
       ],
-      "thumbnail": "#",
-      "deployUrl": "#",
+      "thumbnail": "yummy.webp",
+      "deployUrl": "https://yummy-gilt.vercel.app/",
       "technologies": {
-        "frontend": ["HTML", "CSS", "JAVASCRIPT"],
-        "backend": ["NODE.JS", "EXPRESS"]
+        "language": ["HTML", "CSS", "JAVASCRIPT"],
+        "frontend": ["Redux", "Axios"],
+        "backend": ["Firebase"]
       },
-      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Placeat eum temporibus voluptatibus est expedita,similique nemo consequuntur voluptatem corrupti illumitaque quidem? Necessitatibus odio vitae officiisducimus earum dolorem repellendus. Lorem ipsum dolor sitamet consectetur adipisicing elit. Voluptate corporisculpa autem temporibus dolorem assumenda voluptatibusaliquid error numquam velit, consectetur mollitiadignissimos, odio similique dolorum esse iure veladipisci."
+      "description": "다양한 디저트들 중에서 무엇을 먹을지 결정하지 못하는 우리의 모습을 생각하며 개발되었습니다. 자동으로 위치 기반 카페를 검색해주는 기능이 있으며, 해당 지역 날씨에 맞춰서 카페를 추천해주고 있습니다."
     },
     {
       "mode": "SINGLE",
