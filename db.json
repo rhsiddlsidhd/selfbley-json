@@ -52,31 +52,6 @@
     },
     {
       "mode": "SINGLE",
-      "title": "The Knot",
-      "overView": " Lorem, ipsum dolor sit amet consectetur adipisicingelit. Voluptate",
-      "socialLinks": [
-        {
-          "name": "github",
-          "icon": "public/github_icon8.svg",
-          "href": "#"
-        },
-        {
-          "name": "tstory",
-          "icon": "https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014",
-          "href": "#"
-        }
-      ],
-      "thumbnail": "#",
-      "deployUrl": "#",
-      "technologies": {
-        "frontend": ["HTML", "CSS", "JAVASCRIPT"],
-        "backend": ["NODE.JS", "EXPRESS"],
-        "etc": ["github", "figma"]
-      },
-      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Placeat eum temporibus voluptatibus est expedita,similique nemo consequuntur voluptatem corrupti illumitaque quidem? Necessitatibus odio vitae officiisducimus earum dolorem repellendus. Lorem ipsum dolor sitamet consectetur adipisicing elit. Voluptate corporisculpa autem temporibus dolorem assumenda voluptatibusaliquid error numquam velit, consectetur mollitiadignissimos, odio similique dolorum esse iure veladipisci."
-    },
-    {
-      "mode": "SINGLE",
       "title": "next-wiki-book",
       "overView": "Wiki book C2C는 Next.Js 애플리케이션 개발에 사용되는 데모 애플리케이션",
       "socialLinks": [
