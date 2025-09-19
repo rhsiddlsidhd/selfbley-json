@@ -73,7 +73,7 @@
         "frontend": ["NextJs", "React", "styled-components", "swr"],
         "etc": ["Github", "Storybook", "Vercel"]
       },
-      "description": "wiki book 레퍼런스를 기반으로 Next.js App Router 구조로 마이그레이션 하였습니다. Next Js를 학습을 목표로 프로젝트를 진행하였으며, 이번 계기로 SSR과 CSR의 차이에 대해 명확하게 이해하고, 애플리케이션의 주된 사용자 특성과 목적에 따라 적절한 렌더링 전략을 선택하는 기준을 체득하였습니다. 데모 시연을 위해 아래 계정으로 로그인할 수 있습니다. \nID: user / PW: password"
+      "description": "wiki book 레퍼런스의 Page Router 기반에서 Next.js App Router 구조로 마이그레이션 하였습니다. Next Js를 학습을 목표로 프로젝트를 진행하였으며, 이번 계기로 SSR과 CSR의 차이에 대해 명확한 이해와 레퍼런스의 코드를 분석하며 학습하는데 집중하였습니다. 데모 시연을 위해 아래 계정으로 로그인할 수 있습니다. \nID: user / PW: password"
     },
     {
       "mode": "SINGLE",
@@ -88,7 +88,7 @@
         {
           "name": "tstory",
           "icon": "https://t1.daumcdn.net/cfile/tistory/9935084A5B9541D014",
-          "href": "#"
+          "href": "https://endless-growth.tistory.com/55"
         }
       ],
 
@@ -103,6 +103,15 @@
     }
   ],
   "books": [
+    {
+      "id": "Micro state management ",
+      "updatedAt": 20250919,
+      "author": "다이시 카토",
+      "title": "리액트 훅을 활용한 마이크로 상태 관리",
+      "description": "리액트와 같은 라이브러리를 사용하여 애플리케이션을 개발할 때, 상태 관리는 매우 중요한 부분입니다. 애니메이션의 상태 관리를 시작으로, 컴포넌트 간의 상태 공유, 비동기 데이터 처리 등 다양한 상황에서 상태 관리가 필요합니다. 상황에 따라 적절한 상태 관리 방법을 선택하는 것이 중요합니다. 다만, 그 선택하는 기준이 명확하지 않아 고민이 될 때가 많았습니다. 그래서 이 책을 통해서 기준점을 명확히 잡고자 했으며, 모든 상태 라이브러리를 사용해본 경험이 없는 저에게는 다양한 상태 관리 라이브러리의 장단점을 비교해볼 수 있는 좋은 기회가 되었습니다. ",
+      "thumbnail": "#",
+      "url": ""
+    },
     {
       "id": "interview",
       "updatedAt": 20250101,
