@@ -113,26 +113,34 @@
       "url": ""
     },
     {
-      "id": "interview",
+      "id": "Graceful Typescript",
       "updatedAt": 20250101,
       "author": "Who Are You",
-      "title": "면접을 위한 CS 전공지식 노트",
+      "title": "우아한 타입스크립트 with 리액트",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
       "thumbnail": "#"
     },
     {
-      "id": "learningJs",
+      "id": "Function Coding",
       "updatedAt": 20250102,
-      "author": "Who Are You",
+      "author": "쏙쏙 들어오는 함수형 코딩",
       "title": "Learning Javascript Data Structures and Algorithms",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
       "thumbnail": "#"
     },
     {
-      "id": "gracefulTs",
+      "id": "Modern Javascript",
       "updatedAt": 20250106,
       "author": "Who Are You",
-      "title": "우아한 타입스크립트 with 리액트",
+      "title": "모던 자바스크립트 Deep Dive",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
+      "thumbnail": "#"
+    },
+    {
+      "id": "Frontend Performance Optimization",
+      "updatedAt": 20250106,
+      "author": "Who Are You",
+      "title": "프론트엔드 성능 최적화 가이드",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio, Lorem ipsum dolor sit amet consectetur adipisicing elit.Optio",
       "thumbnail": "#"
     }
